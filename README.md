@@ -1,2 +1,2 @@
 # Python-tkinter-basicGUI
-here is the python
+This is my first GUI design using tkinter and basic widgets like enterbox and text.
